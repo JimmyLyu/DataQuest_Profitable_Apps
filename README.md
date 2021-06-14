@@ -1,5 +1,13 @@
 # DataQuest_Profitable_Apps
 
+<font size='5'>**DataQuest Guided Project: Profitable App Profiles in the App Market**</font>
+
+
+
+
+<font size='4'>**Objectives**</font>
+
+
 This is a guided project from DataQuest.
 
 Our aim in this project is to find mobile app profiles that are profitable for the App Store and Google Play markets.
